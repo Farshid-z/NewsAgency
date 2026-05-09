@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\Sources\\NewsAgency\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{874E9808-FC2B-4A63-BDEE-C56CD733561D}|NewsAgency\\NewsAgency.csproj|d:\\sources\\newsagency\\newsagency\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{874E9808-FC2B-4A63-BDEE-C56CD733561D}|NewsAgency\\NewsAgency.csproj|solutionrelative:newsagency\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\usersubscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\usersubscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\subscriptionplan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\newscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|d:\\sources\\newsagency\\na_domain\\na_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50093E08-A2B0-4239-BC5D-07D7A0083951}|NA_Domain\\NA_Domain.csproj|solutionrelative:na_domain\\na_domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8251B8D9-CF1E-4463-B085-CB8E31FD9F57}|NA_Persistence\\NA_Persistence.csproj|d:\\sources\\newsagency\\na_persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8251B8D9-CF1E-4463-B085-CB8E31FD9F57}|NA_Persistence\\NA_Persistence.csproj|solutionrelative:na_persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +54,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSubscriptionPlan.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\UserSubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\UserSubscriptionPlan.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\UserSubscriptionPlan.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\UserSubscriptionPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:38:58.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SubscriptionPlan.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\SubscriptionPlan.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\SubscriptionPlan.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\SubscriptionPlan.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\SubscriptionPlan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:38:10.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsCategory.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\NewsCategory.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\NewsCategory.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\NewsCategory.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\NewsCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:34:05.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\Category.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:33:27.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NA_Domain",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\NA_Domain.csproj",
+              "RelativeDocumentMoniker": "NA_Domain\\NA_Domain.csproj",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\NA_Domain.csproj",
+              "RelativeToolTip": "NA_Domain\\NA_Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-09T15:32:25.001Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
@@ -30,15 +135,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NewsAgency\\Class1.cs",
-              "RelativeDocumentMoniker": "NewsAgency\\Class1.cs",
-              "ToolTip": "D:\\Sources\\NewsAgency\\NewsAgency\\Class1.cs",
-              "RelativeToolTip": "NewsAgency\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\User.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\User.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-08T09:54:49.281Z",
+              "WhenOpened": "2026-05-09T15:17:41.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\Author.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Author.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-09T15:15:01.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Persistence\\Class1.cs",
+              "RelativeDocumentMoniker": "NA_Persistence\\Class1.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Persistence\\Class1.cs",
+              "RelativeToolTip": "NA_Persistence\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T14:57:03.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\Comment.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Comment.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T14:44:54.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "News.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\News.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\News.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\News.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\News.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T14:44:42.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "NA_Domain\\Entities\\Role.cs",
+              "ToolTip": "D:\\Sources\\NewsAgency\\NA_Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "NA_Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-08T14:44:30.163Z",
               "EditorCaption": ""
             }
           ]
